@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Bowling Stars",
+  "description": "Bowling:Stars",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Bowling Stars",
+  "name": "Bowling:Stars",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Bowling Stars",
+  "short_name": "Bowling:Stars",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Bowling Stars",
+      "name": "Bowling:Stars",
       "url": "",
       "description": ""
     }
